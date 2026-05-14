@@ -9,4 +9,6 @@ dfu-util-static -a 0 -d 0483:df11 -s 0x08000000 -D stm32.bin
 
 Remember to FAT32 format the drive the first time you reconnect it to your PC after you've flashed the firmware. Copy the bins under the /rom folder which you need to create (under additional subfolders if you wish).
 
-You can download a game I ported and modified (100jumps.com -> 100jumpss.bin) and try it out.
+You can download a game I ported and modified (100jumps.org -> 100jumpss.bin) and try it out.
+
+Have fun!
