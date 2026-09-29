@@ -12,3 +12,5 @@ Remember to FAT32 format the drive the first time you reconnect it to your PC af
 You can download a game I ported and modified (100jumps.org -> 100jumpss.bin) and try it out.
 
 Have fun!
+
+<img width="1921" height="1194" alt="immagine" src="https://github.com/user-attachments/assets/26592cb8-4668-4f9c-a3d0-167414826ac5" />
