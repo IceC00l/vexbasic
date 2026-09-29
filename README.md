@@ -14,3 +14,4 @@ You can download a game I ported and modified (100jumps.org -> 100jumpss.bin) an
 Have fun!
 
 <img width="1921" height="1194" alt="immagine" src="https://github.com/user-attachments/assets/26592cb8-4668-4f9c-a3d0-167414826ac5" />
+<img width="1921" height="1194" alt="immagine" src="https://github.com/user-attachments/assets/789847af-80b4-4d44-9fde-088a9c15c9b1" />
